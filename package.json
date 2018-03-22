@@ -1,0 +1,17 @@
+{
+  "name": "Timestamp-API-Microservice",
+  "version": "1.0.0",
+  "description": "A simple timestamp microservice, created for FreeCodeCamp (https://www.freecodecamp.org/challenges/timestamp-microservice)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://github.com/Ashto10/timestamp-microservice"
+  }
+}
